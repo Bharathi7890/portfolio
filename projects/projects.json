@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Co-People",
+    "desc": "A job portal connecting job seekers and providers, featuring registration, job listings, search options, and role-specific dashboards.",
+    "image": "cop",
+    "category": "java",
+    "links": {
+      "view": "https://github.com/Bharathi7890/co-people.git",
+      "code": "https://github.com/Bharathi7890/co-people.git"
+    }
+  },
+  {
+    "name": "Job Portal",
+    "desc": "A job portal developed using the MERN stack with user registration, job listings, search functionality, and role-specific dashboards.",
+    "image": "jpm",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Bharathi7890/job-portal.git",
+      "code": "https://github.com/Bharathi7890/job-portal.git"
+    }
+  },
+  {
+    "name": "Profile Manager",
+    "desc": "A profile manager developed using the MERN stack with user authentication, profile creation, updates, and role-based access control.",
+    "image": "mp",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Bharathi7890/Profile-Manager.git",
+      "code": "https://github.com/Bharathi7890/Profile-Manager.git"
+    }
+  },
+  {
+    "name": "DataEase",
+    "desc": "A profile manager developed using java and React with user authentication, profile management, CRUD operations, and role-based access control.",
+    "image": "web",
+    "category": "java",
+    "links": {
+      "view": "https://github.com/Bharathi7890/Profile-Manager.git",
+      "code": "https://github.com/Bharathi7890/Profile-Manager.git"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "port",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Bharathi7890/portfolio",
+      "code": "https://github.com/Bharathi7890/portfolio"
+    }
+  }]
