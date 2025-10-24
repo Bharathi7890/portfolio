@@ -19,7 +19,7 @@ This portfolio is built using:
 
 ## 🚀 Live Demo
 
-Check out the live version of the portfolio: [TechSoldier Portfolio]([https://your-portfolio-link.com](https://bharathiraja-portfolio.netlify.app))
+Check out the live version of the portfolio: [TechSoldier Portfolio](https://bharathiraja-portfolio.netlify.app)
 
 ## 📂 Project Structure
 
